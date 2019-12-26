@@ -11,7 +11,7 @@ NeuroStartUp - динамически развивающийся стартап,
 
 Для получения копии этого проекта для запуска на локальном ПК воспользуйтесь следующей URL-ссылкой:
 
-//github.com/Risovaniy/NeuroStartUp.git
+https://github.com/Risovaniy/NeuroStartUp.git
 
 ### Prerequisites
 
